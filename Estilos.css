@@ -1,0 +1,32 @@
+body{
+    background:lightgray;
+    font-family:Arial; 
+  }
+  
+  .menu{
+    background-color:lightgray;
+  }
+  .menu li{
+    list-style:none;
+  }
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+    
+  }
+  a{
+    color:black;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .sub-titulo,
+  .titulo-site{
+    color: black;
+    text-align: center;
+  }
+  .sub-titulo{
+   font-style: italic;
+  }
+  
